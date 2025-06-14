@@ -2,7 +2,7 @@
 
 🎓 **PhD Student @ Urban Analysis Lab, NUS Architecture, SG**  
 🧑‍💻 **CS Master's @ University of Pennsylvania, US**  
-🌏 **MSc in Space Syntax (UCL,UK) | B.Arch (Chongqing University,CN)**
+🌏 **MSc in Space Syntax (UCL, UK) | B.Arch (Chongqing University, CN)**
 
 ---
 
