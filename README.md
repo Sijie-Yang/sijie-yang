@@ -30,9 +30,6 @@ Here’s what drives me:
 - [**thermal-affordance**](https://github.com/Sijie-Yang/thermal-affordance):  
   Exploring how urban environments support (or hinder) thermal comfort.
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sijie-yang&show_icons=true&theme=radical)
-
 - [**urbancode**](https://github.com/Sijie-Yang/urbancode):  
   Tools and frameworks for computational urban analysis.
 
@@ -43,6 +40,11 @@ Here’s what drives me:
 - Music lover (always up for recommendations!)
 - Basketball player & outdoor enthusiast (bike & run)
 - Board game strategist – big fan of Go (the game, not the language 😄)
+
+---
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sijie-yang&show_icons=true&theme=radical)
 
 ---
 
