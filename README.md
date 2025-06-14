@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Sijie Yang!
 
-🎓 **PhD Student @ Urban Analysis Lab, NUS Architecture**  
-🧑‍💻 **CS Master's @ University of Pennsylvania**  
-🌏 **MSc in Space Syntax (UCL) | B.Arch (Chongqing University)**
+🎓 **PhD Student @ Urban Analysis Lab, NUS Architecture, SG**  
+🧑‍💻 **CS Master's @ University of Pennsylvania, US**  
+🌏 **MSc in Space Syntax (UCL,UK) | B.Arch (Chongqing University,CN)**
 
 ---
 
