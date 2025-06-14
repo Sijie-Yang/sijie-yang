@@ -16,7 +16,11 @@ Here’s what drives me:
 - **Urban Comfort**: Centering human experience in urban design  
 - **Architectural Systems**: Rethinking buildings for sustainability & intelligence
 
-In my recent work, I focus on leveraging **foundation models** (large language & vision models), **world models**, **reinforcement learning**, and **advanced spatiotemporal modeling** to build next-generation urban analytics frameworks. These approaches aim to capture the complexity of urban systems, support dynamic decision-making, and advance human-centered, intelligent city design.
+I am also actively exploring cutting-edge computational methods to advance urban science:
+- **Foundation Models**: Leveraging large language and vision models for geospatial reasoning
+- **World Models**: Learning dynamic representations of urban systems for predictive understanding
+- **Reinforcement Learning**: Enabling adaptive and optimized urban decision-making
+- **Spatiotemporal Modeling**: Capturing complex geographic patterns across scales and time
 
 ---
 
