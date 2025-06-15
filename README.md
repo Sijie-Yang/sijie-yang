@@ -36,6 +36,9 @@ I am also actively exploring cutting-edge computational methods to advance urban
 - [**thermal-affordance**](https://github.com/Sijie-Yang/thermal-affordance):  
   Exploring how urban environments support (or hinder) thermal comfort.
 
+- [**streetscape-perception-survey**](https://github.com/Sijie-Yang/Streetscape-Perception-Survey):  
+  A simple and powerful platform for conducting streetscape perception surveys with image-based questions.
+
 - [**urbancode**](https://github.com/Sijie-Yang/urbancode):  
   Tools and frameworks for computational urban analysis.
 
