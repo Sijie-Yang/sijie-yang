@@ -53,7 +53,7 @@ I am also actively exploring cutting-edge computational methods to advance urban
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sijie-yang&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sijie-yang&show_icons=true&theme=radical&cache_seconds=86400)
 
 ---
 
